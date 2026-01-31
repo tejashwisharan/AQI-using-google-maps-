@@ -1,0 +1,7 @@
+{
+  "name": "BreathePure AQI Dashboard",
+  "description": "A sophisticated air quality monitoring dashboard using real-time geolocation and Google Search/Maps grounding to provide accurate atmospheric data and health recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
